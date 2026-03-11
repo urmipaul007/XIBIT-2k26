@@ -219,7 +219,14 @@ graph TD
 ### 4. Artificial Intelligence
 - **Provider**: Google Gemini API.
 - **Integration**: Direct Client-Side integration (Low latency).
-- **Capabilities**:
     - Real-time Audio Streaming (Gemini Live).
     - Structured Market Data Generation (JSON Mode).
     - Multi-modal interaction.
+
+## Contributors
+
+We welcome contributions! A special thanks to all the developers who have helped build and improve SpeakHarvest:
+
+*   **Urmil** - *Frontend Enhancements & UI Polish*  *(Or insert your preferred name here)*
+
+
