@@ -226,7 +226,5 @@ graph TD
 ## Contributors
 
 We welcome contributions! A special thanks to all the developers who have helped build and improve SpeakHarvest:
-
-*   **Urmil** - *Frontend Enhancements & UI Polish*  *(Or insert your preferred name here)*
-
+*   **[@urmipaul007](https://github.com/urmipaul007)** - *Frontend Enhancements & UI Polish*
 
